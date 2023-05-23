@@ -1,5 +1,3 @@
-Voici les notations Big O pour la complexité temporelle de l'algorithme de tri à bulles :
-
-Dans le meilleur des cas : O(n) (lorsque le tableau est déjà trié, aucune modification n'est nécessaire)
-Dans le cas moyen : O(n^2) (probabilité que le tableau ne soit pas trié)
-Dans le pire des cas : O(n^2) (lorsque le tableau est trié dans l'ordre inverse)
+O(n)
+O(n^2)
+O(n^2)
